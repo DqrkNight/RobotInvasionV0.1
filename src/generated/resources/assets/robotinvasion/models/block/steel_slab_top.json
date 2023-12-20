@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "robotinvasion:block/steel_block",
+    "side": "robotinvasion:block/steel_block",
+    "top": "robotinvasion:block/steel_block"
+  }
+}

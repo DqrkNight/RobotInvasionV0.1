@@ -1,0 +1,4 @@
+// 1.20.1	2023-12-16T12:01:21.1365155	Global Loot Modifiers : robotinvasion
+d34d509b89e9ac3dd18b43ed5d2cef0ed682e202 data/forge/loot_modifiers/global_loot_modifiers.json
+a6f1d07c5dfdb5e6a878ddb0dee0064d49f7c3d6 data/robotinvasion/loot_modifiers/steel_dust_from_iron_ore_block.json
+558945b1cae201c3c94ae3c9f26578d04345a815 data/robotinvasion/loot_modifiers/steel_ingot_from_mineshaft_chest.json

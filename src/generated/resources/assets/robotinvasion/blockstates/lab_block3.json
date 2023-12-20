@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "robotinvasion:block/lab_block3_front",
+    "side": "robotinvasion:block/lab_block3",
+    "back": "robotinvasion:block/lab_block3_front",
+    "top": "robotinvasion:block/lab_block3"
+  }
+}

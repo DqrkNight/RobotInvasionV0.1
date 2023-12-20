@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "robotinvasion:block/steel_slab"
+    },
+    "type=double": {
+      "model": "robotinvasion:block/steel_block"
+    },
+    "type=top": {
+      "model": "robotinvasion:block/steel_slab_top"
+    }
+  }
+}

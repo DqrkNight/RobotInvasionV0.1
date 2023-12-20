@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 220,
+  "experience": 0.8,
+  "group": "silver",
+  "ingredient": {
+    "item": "robotinvasion:silver_ore_block"
+  },
+  "result": "robotinvasion:titanium"
+}

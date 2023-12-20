@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 340,
+  "experience": 0.9,
+  "group": "titanium",
+  "ingredient": {
+    "item": "robotinvasion:titanium_ore"
+  },
+  "result": "robotinvasion:titanium"
+}

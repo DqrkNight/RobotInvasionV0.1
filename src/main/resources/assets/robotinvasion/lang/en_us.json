@@ -1,0 +1,53 @@
+{
+  "item.robotinvasion.roamer_spawnegg": "Roamer Spawn Egg",
+  "item.robotinvasion.hammer": "Hammer",
+  "item.robotinvasion.coalcoke": "Coal Coke",
+  "item.robotinvasion.ration": "Ration",
+
+  "item.robotinvasion.raw_titanium": "Raw Titanium",
+  "item.robotinvasion.titanium": "Titanium Ingot",
+  "block.robotinvasion.titanium_ore": "Titanium Ore",
+
+  "item.robotinvasion.silver": "Silver Ingot",
+  "item.robotinvasion.silver_ore": "Raw Silver",
+  "block.robotinvasion.silver_ore_block": "Silver Ore",
+  "block.robotinvasion.silver_block": "Block of Silver",
+
+  "item.robotinvasion.steel_dust": "Steel Dust",
+  "item.robotinvasion.steel": "Steel Ingot",
+  "block.robotinvasion.steel_block": "Block of Steel",
+  "item.robotinvasion.steel_sword": "Steel Sword",
+  "item.robotinvasion.steel_pickaxe": "Steel Pickaxe",
+  "item.robotinvasion.steel_axe": "Steel Axe",
+  "item.robotinvasion.steel_shovel": "Steel Shovel",
+  "item.robotinvasion.steel_hoe": "Steel Hoe",
+  "item.robotinvasion.steel_helmet": "Steel Helmet",
+  "item.robotinvasion.steel_chestplate": "Steel Chestplate",
+  "item.robotinvasion.steel_leggings": "Steel Leggings",
+  "item.robotinvasion.steel_boots": "Steel Boots",
+  "block.robotinvasion.steel_stairs": "Steel Stairs",
+  "block.robotinvasion.steel_door": "Steel Door",
+  "block.robotinvasion.steel_button": "Steel Button",
+  "block.robotinvasion.steel_fence": "Steel Fence",
+  "block.robotinvasion.steel_fence_gate": "Steel Fence Gate",
+  "block.robotinvasion.steel_wall": "Steel Wall",
+  "block.robotinvasion.steel_trapdoor": "Steel Trapdoor",
+  "block.robotinvasion.steel_pressure_plate": "Steel Pressure Plate",
+  "block.robotinvasion.steel_slab": "Steel Slab",
+
+  "block.robotinvasion.lab_block1": "Lab Block",
+  "block.robotinvasion.lab_block2": "Lab Block",
+  "block.robotinvasion.lab_block3": "Lab Block",
+
+  "block.robotinvasion.resistance_workstation": "Resistance Workstation",
+
+  "entity.minecraft.villager.robotinvasion.resistance_member": "Resistance Member",
+
+  "item.robotinvasion.bean_seeds": "Bean Seeds",
+  "item.robotinvasion.bean": "Beans",
+
+  "item.robotinvasion.copper_wire": "Copper Wire",
+
+
+  "creativetab.robot_invasion_tab": "Robot Invasion"
+}

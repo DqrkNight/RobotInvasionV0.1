@@ -1,0 +1,7 @@
+// 1.20.1	2023-12-17T17:21:29.5584216	Tags for minecraft:block mod id robotinvasion
+7e6c46df6a16af39367f1361ca2b415ba6cc3aca data/minecraft/tags/blocks/fences.json
+6ea6f362ebcc6ebca9b5838126ea798ba34bf716 data/minecraft/tags/blocks/fence_gates.json
+3b792eec15566afe95d2e8e9c045b03ff762267d data/minecraft/tags/blocks/mineable/pickaxe.json
+704a9aa53c8f5f7c2e7ffdada258ddb07e74710c data/minecraft/tags/blocks/needs_iron_tool.json
+51b5e70888d5b3f80a380488997bf02aeac4a09b data/minecraft/tags/blocks/walls.json
+b73cde5c0bf17b7c374ef52c7ec2b79eac621790 data/robotinvasion/tags/blocks/lab_blocks.json

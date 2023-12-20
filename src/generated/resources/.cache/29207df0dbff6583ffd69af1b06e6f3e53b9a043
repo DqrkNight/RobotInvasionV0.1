@@ -1,0 +1,5 @@
+// 1.20.1	2023-12-17T16:47:15.8320794	Tags for minecraft:item mod id robotinvasion
+565ee869dee99f293a2b1098fe6593aa26494416 data/minecraft/tags/items/trimmable_armor.json
+b9904710561875515f6a00a9fbb53479848e7057 data/robotinvasion/tags/items/ration_fruits.json
+0ffa2876d66e64ab9072c136bc141b76009d11da data/robotinvasion/tags/items/ration_veggies.json
+d6932161035ff334ccffa91b6727f9017b6d8018 data/robotinvasion/tags/items/raw_meats.json

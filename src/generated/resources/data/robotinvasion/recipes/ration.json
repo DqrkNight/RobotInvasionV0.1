@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "!": {
+      "item": "robotinvasion:bean"
+    },
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "$": {
+      "tag": "robotinvasion:ration_fruits"
+    },
+    "%": {
+      "tag": "robotinvasion:raw_meats"
+    },
+    "@": {
+      "tag": "robotinvasion:ration_veggies"
+    }
+  },
+  "pattern": [
+    " ! ",
+    "@#$",
+    " % "
+  ],
+  "result": {
+    "item": "robotinvasion:ration"
+  },
+  "show_notification": true
+}
